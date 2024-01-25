@@ -16,7 +16,7 @@ GainHonorGuard.Enable = 1
 #   Announce the module when the player logs in?
 #
 
-GainHonorGuard.Announce = 1
+GainHonorGuard.Announce = 0
 
 #
 #   GainHonorOnGuardKill
@@ -26,7 +26,7 @@ GainHonorGuard.Announce = 1
 #       Default : 0 (No honor when you kill a guard)
 #
 
-GainHonorGuard.GainHonorOnGuardKill = 0
+GainHonorGuard.GainHonorOnGuardKill = 1
 
 #
 #   GainHonorOnEliteKill
@@ -34,7 +34,7 @@ GainHonorGuard.GainHonorOnGuardKill = 0
 #       Default : 0 (No honor when you kill an elite mob)
 #
 
-GainHonorGuard.GainHonorOnEliteKill = 0
+GainHonorGuard.GainHonorOnEliteKill = 1
 
 #
 #   GainHonorOnGuardKillAnnounce
@@ -43,7 +43,7 @@ GainHonorGuard.GainHonorOnEliteKill = 0
 #       Default : 0 (Disabled)
 #
 
-GainHonorGuard.GainHonorOnGuardKillAnnounce = 0
+GainHonorGuard.GainHonorOnGuardKillAnnounce = 1
 
 #
 #   GainHonorOnEliteKillAnnounce
@@ -52,7 +52,7 @@ GainHonorGuard.GainHonorOnGuardKillAnnounce = 0
 #       Default : 0 (Disabled)
 #
 
-GainHonorGuard.GainHonorOnEliteKillAnnounce = 0
+GainHonorGuard.GainHonorOnEliteKillAnnounce = 1
 
 #
 #   GainHonorRateEnable
